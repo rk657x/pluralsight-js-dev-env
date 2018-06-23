@@ -1,4 +1,4 @@
-//Because we are using bable to tranpile our code, we can code in ES6
+//Because we are using bable to transpile our code, we can code in ES6
 import path from 'path';
 
 export default {
